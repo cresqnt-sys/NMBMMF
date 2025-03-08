@@ -1,0 +1,8 @@
+cx_Freeze
+requests
+keyboard
+pyautogui
+pyscreenrec
+pygetwindow
+Pillow
+ttkbootstrap 
