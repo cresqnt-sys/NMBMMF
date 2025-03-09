@@ -10,8 +10,6 @@
         "HELL": "Message",
         "STARFALL": "Message",
         "CORRUPTION": "Message",
-        "GRAVEYARD": "None",
-        "PUMPKIN MOON": "None",
         "NULL": "Message",
         "GLITCHED": "Message"
     },
@@ -40,86 +38,5 @@
     "use_button": [
         710,
         573
-    ],
-    "biome_counts": {
-        "WINDY": 0,
-        "RAINY": 0,
-        "SNOWY": 0,
-        "SAND STORM": 0,
-        "HELL": 0,
-        "STARFALL": 0,
-        "CORRUPTION": 0,
-        "GRAVEYARD": 0,
-        "PUMPKIN MOON": 0,
-        "NULL": 0,
-        "GLITCHED": 0
-    },
-    "session_time": "00:00:00:00",
-    "biome_randomizer": false,
-    "br_duration": "",
-    "strange_controller": false,
-    "sc_duration": "",
-    "auto_record": false,
-    "record_duration": "",
-    "record_fps": "25",
-    "auto_pop_glitched": false,
-    "auto_buff_glitched": {
-        "Oblivion Potion": [
-            false,
-            1
-        ],
-        "Heavenly Potion II": [
-            false,
-            1
-        ],
-        "Fortune Potion III": [
-            false,
-            1
-        ],
-        "Fortune Potion II": [
-            false,
-            1
-        ],
-        "Fortune Potion I": [
-            false,
-            1
-        ],
-        "Haste Potion III": [
-            false,
-            1
-        ],
-        "Haste Potion II": [
-            false,
-            1
-        ],
-        "Haste Potion I": [
-            false,
-            1
-        ],
-        "Warp Potion": [
-            false,
-            1
-        ],
-        "Strange Potion I": [
-            false,
-            1
-        ],
-        "Strange Potion II": [
-            false,
-            1
-        ],
-        "Stella's Candle": [
-            false,
-            1
-        ],
-        "Speed Potion": [
-            false,
-            1
-        ],
-        "Lucky Potion": [
-            false,
-            1
-        ]
-    },
-    "selected_theme": "superhero"
+    ]
 }
